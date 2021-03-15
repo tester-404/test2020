@@ -1,0 +1,22 @@
+
+\ttt1> cd test   
+test> git init
+
+3 git init
+
+4 git status
+
+5 git add -A
+
+6 git commit -a -m"comment"
+
+7 git status
+
+git remote add origin https://github.com/tester-404/fileUploadWebdriverIoJs.git
+
+git branch -M main
+
+git push -u origin main
+
+git add getRecDemo1.js
+
